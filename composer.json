@@ -1,0 +1,17 @@
+{
+    "name": "samar/design-pattrens",
+    "description": "design pattrens types",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SamarElsayedMohammed",
+            "email": "samarelsayedmohammed12345@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
